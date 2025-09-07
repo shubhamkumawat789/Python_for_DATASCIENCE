@@ -1,10 +1,10 @@
 # For_Practice
 
 ## Numpy
-##### NumPy library in Python, NumPy is the backbone of scientific computing, machine learning, and data science workflows. This showcases array creation, manipulation, broadcasting, linear algebra operations, and performance optimizations such as vectorization. 
+NumPy library in Python, NumPy is the backbone of scientific computing, machine learning, and data science workflows. This showcases array creation, manipulation, broadcasting, linear algebra operations, and performance optimizations such as vectorization. 
 
-### I exploed:
-##### 1. Introduction to NumPy – Overview of NumPy arrays vs Python lists.
+### I exploed: 
+1. Introduction to NumPy – Overview of NumPy arrays vs Python lists.
 
 2. Array Creation – np.zeros, np.ones, np.arange, np.linspace.
 
@@ -27,7 +27,7 @@
    multiple arrays together in compressed .npz format.
    
 ### Challenges: 
-##### Confusion about file formats, errors in reshaping, handling delimiters, and grasping broadcasting rules.
+Confusion about file formats, errors in reshaping, handling delimiters, and grasping broadcasting rules.
 
 ### Learnings: 
-##### When and how to use each format, efficiency of vectorization, power of broadcasting, and confidence in using NumPy for real-world data tasks.
+When and how to use each format, efficiency of vectorization, power of broadcasting, and confidence in using NumPy for real-world data tasks.
