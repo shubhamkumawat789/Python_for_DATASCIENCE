@@ -3,7 +3,7 @@
 ## Numpy
 NumPy library in Python, NumPy is the backbone of scientific computing, machine learning, and data science workflows. This showcases array creation, manipulation, broadcasting, linear algebra operations, and performance optimizations such as vectorization. 
 
-### I exploed: 
+### What I exploed: 
 1. Introduction to NumPy – Overview of NumPy arrays vs Python lists.
 
 2. Array Creation – np.zeros, np.ones, np.arange, np.linspace.
@@ -29,6 +29,7 @@ NumPy library in Python, NumPy is the backbone of scientific computing, machine 
 Pandas is a powerful and flexible open-source data analysis and manipulation library for Python. It provides data structures and functions designed to efficiently handle structured data, including tabular data such as spreadsheets and SQL tables.
 
 ### What I Explored:
+
 1.Introduction to Pandas : Learned what Pandas is and why it is used in data science (handling structured data, especially tables).
 
 2.Core Data Structures:
