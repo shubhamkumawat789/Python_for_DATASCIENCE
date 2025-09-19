@@ -1,7 +1,9 @@
 # Python_for_DATSCIENCE
 
-## Numpy (https://github.com/shubhamkumawat789/Python_for_DATASCIENCE/blob/main/Numpy.ipynb)
+## Numpy 
+
 NumPy library in Python, NumPy is the backbone of scientific computing, machine learning, and data science workflows. This showcases array creation, manipulation, broadcasting, linear algebra operations, and performance optimizations such as vectorization. 
+(https://github.com/shubhamkumawat789/Python_for_DATASCIENCE/blob/main/Numpy.ipynb)
 
 ### What I exploed: 
 1. Introduction to NumPy – Overview of NumPy arrays vs Python lists.
@@ -27,7 +29,7 @@ NumPy library in Python, NumPy is the backbone of scientific computing, machine 
 
 ## Pandas
 Pandas is a powerful and flexible open-source data analysis and manipulation library for Python. It provides data structures and functions designed to efficiently handle structured data, including tabular data such as spreadsheets and SQL tables.
-
+(https://github.com/shubhamkumawat789/Python_for_DATASCIENCE/blob/main/Pandas.ipynb)
 ### What I Explored:
 
 1.Introduction to Pandas : Learned what Pandas is and why it is used in data science (handling structured data, especially tables).
