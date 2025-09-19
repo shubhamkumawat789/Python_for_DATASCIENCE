@@ -1,6 +1,6 @@
 # Python_for_DATSCIENCE
 
-## Numpy
+## Numpy (https://github.com/shubhamkumawat789/Python_for_DATASCIENCE/blob/main/Numpy.ipynb)
 NumPy library in Python, NumPy is the backbone of scientific computing, machine learning, and data science workflows. This showcases array creation, manipulation, broadcasting, linear algebra operations, and performance optimizations such as vectorization. 
 
 ### What I exploed: 
