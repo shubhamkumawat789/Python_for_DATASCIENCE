@@ -28,10 +28,11 @@ NumPy library in Python, NumPy is the backbone of scientific computing, machine 
 
 
 ## Pandas
+
 Pandas is a powerful and flexible open-source data analysis and manipulation library for Python. It provides data structures and functions designed to efficiently handle structured data, including tabular data such as spreadsheets and SQL tables.
 (https://github.com/shubhamkumawat789/Python_for_DATASCIENCE/blob/main/Pandas.ipynb)
-### What I Explored:
 
+### What I Explored:
 1.Introduction to Pandas : Learned what Pandas is and why it is used in data science (handling structured data, especially tables).
 
 2.Core Data Structures:
@@ -48,3 +49,29 @@ DataFrame → two-dimensional labeled table (rows & columns).
 
 7.Basic Operations: Sorting, filtering, applying functions, and simple statistics.
 
+## Matplotlib
+
+I recently compiled my learning notes on Matplotlib, one of Python’s most powerful libraries for data visualization. 
+Create high-quality plots for analytics and reporting.
+Customize visualizations for clarity and storytelling.
+Apply visualization techniques to real datasets in a professional context.
+
+### What I Explored : 
+1.Basic Plotting Functions
+Line plots, bar charts, histograms, scatter plots, and pie charts.
+
+2.Customization
+Adding labels, titles, and legends.
+Controlling colors, markers, line styles, and grid options.
+Enhancing readability with annotations and ticks formatting.
+
+3.Subplots & Multiple Figures
+Managing layouts with multiple charts.
+Exploring figure sizes and aspect ratios.
+
+4.Advanced Features
+Stack plots and 3D plotting.
+Combining Matplotlib with libraries like NumPy and Pandas.
+
+5.Saving animations to video file
+To save the animation to the GIF format.
