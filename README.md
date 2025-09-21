@@ -79,3 +79,19 @@ Combining Matplotlib with libraries like NumPy and Pandas.
 
 5.Saving animations to video file
 To save the animation to the GIF format.
+
+## Seaborn
+
+Seaborn is a Python data visualization library built on top of Matplotlib.
+Why it’s useful: It provides a high-level interface for creating beautiful and informative statistical graphics with less code.
+
+### What i Explored:
+1.Built line plots and relational plots to study multi-dimensional relationships.
+
+2.Applied bar, count, and categorical plots to analyze business, demographic, and financial data.
+
+3.Leveraged violin, box, and strip plots to explore variability and detect outliers.
+
+4.Used heatmaps and pair plots for pattern discovery and correlation mapping.
+
+5.Enhanced visual appeal through color palettes, ordering, and styling techniques.
