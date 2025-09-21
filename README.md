@@ -85,6 +85,8 @@ To save the animation to the GIF format.
 Seaborn is a Python data visualization library built on top of Matplotlib.
 Why it’s useful: It provides a high-level interface for creating beautiful and informative statistical graphics with less code.
 
+Link - (https://github.com/shubhamkumawat789/Python_for_DATASCIENCE/blob/main/Seaborn.ipynb)
+
 ### What i Explored:
 1.Built line plots and relational plots to study multi-dimensional relationships.
 
